@@ -1,0 +1,11 @@
+html,
+body {
+  font-family: 'DM Sans', sans-serif;
+  color: #242d3c;
+  background-image:url('../assets//start.webp');
+  background-size: cover;
+  background-position: center;
+  margin:0%;
+  padding:0%;
+  background-repeat: no-repeat;
+}
