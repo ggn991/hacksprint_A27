@@ -43,6 +43,7 @@ const Landing = () => {
     }
   };
 
+  
   return (
     <div>
       <div className='container-fluid landing-page-div'>
